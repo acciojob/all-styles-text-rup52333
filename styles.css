@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.main{
     /* container div width -> 200px;
 
     background color -> purple;
@@ -24,7 +24,7 @@ padding-bottom: 10px;
 padding-left: 10px;
 font-size: 20pixel;
 }
-h1{
+#heading{
 background-color:white ;
 
 
